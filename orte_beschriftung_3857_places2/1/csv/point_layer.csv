@@ -1,0 +1,26 @@
+X,Y,fid,osm_id,name,type,population,icon_url
+13.4040601,52.5178855,"1","162012321",Mitte,suburb,,./0.png
+13.4502904,52.5122154,"2","262328057",Friedrichshain,suburb,"114050",./0.png
+13.4082985,52.519961,"3","539358887",Alt-Berlin,locality,,./0.png
+13.3981483,52.5144976,"4","539359809",Friedrichswerder,neighbourhood,,./0.png
+13.4093359,52.5123936,"5","539360100",,locality,,./0.png
+13.4351058,52.5168091,"6","539363323",Stralauer Vorstadt,locality,,./0.png
+13.3995437,52.5257512,"7","539368274",Spandauer Vorstadt,neighbourhood,,./0.png
+13.4078674,52.5258075,"8","539369165",Scheunenviertel,neighbourhood,,./0.png
+13.4442848,52.5011154,"9","1421159807",Friedrichshain-Kreuzberg,borough,,./0.png
+13.4608548,52.4979852,"10","1777272684",Osthafen,locality,,./0.png
+13.4073396,52.5134456,"11","659438229",Fischerinsel,neighbourhood,,./0.png
+13.4043946,52.5135993,"12","659438230",,locality,,./0.png
+13.4282561,52.5185177,"13","1655788388",Strausberger Platz,square,,./0.png
+13.4540029,52.5158121,"14","1872307832",Frankfurter Tor,square,,./0.png
+13.4531127,52.518532,"15","1882210119",Bersarinplatz,square,,./0.png
+13.4713729,52.4939285,"16","2018625538",Stralau,neighbourhood,,./0.png
+13.4034924,52.5205896,"17","-2096624211",Heiligegeistkirchplatz,square,,./0.png
+13.4660183,52.518071,"18","-1879484226",Samariterplatz,square,,./0.png
+13.4343307,52.5319119,"19","-1247056738",Bötzowkiez,neighbourhood,,./0.png
+13.4250661,52.5256199,"20","-1247037853",Barnimkiez,neighbourhood,,./0.png
+13.4530257,52.5246139,"21","-1247037852",Hausburgviertel,neighbourhood,,./0.png
+13.4655019,52.5172826,"22","-1247037851",Samariterviertel,neighbourhood,,./0.png
+13.4146942,52.5142719,"23","1039144648",Märkischer Platz,square,,./0.png
+13.4198868,52.5183723,"24","1538239260",Wohnprojekt Magazin17,city_block,,./0.png
+13.4391473,52.5073072,"25","1649217312",Anita-Berber-Platz,square,,./0.png
